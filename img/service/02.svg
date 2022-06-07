@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88.606" height="130.351" viewBox="0 0 88.606 130.351">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Color_Fill_3" data-name="Color Fill 3" d="M540.807,1005.459l3.949,40.16,36.754-16.659S573.69,1002.505,540.807,1005.459Z" fill="#ffecba"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Shape_19" data-name="Shape 19" d="M617.659,918.42a23.5,23.5,0,0,1,8.6,32.1l-5.5,9.526a23.5,23.5,0,1,1-40.7-23.5l5.5-9.526A23.5,23.5,0,0,1,617.659,918.42Z" fill="#e88e8d"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Shape_17_copy" data-name="Shape 17 copy" d="M585.307,927.455a139.055,139.055,0,0,1,40.7,23.5l-12.5,21.651-40.7-23.5Z" fill="#daeaf2"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Shape_17" data-name="Shape 17" d="M574.85,945.326a139.045,139.045,0,0,1,40.7,23.5L581.51,1028.96a30.047,30.047,0,0,0-8.526-7.232c-6.562-3.789-14.713.744-14.713.744s.094-9.184-7.065-13.317a29.643,29.643,0,0,0-10.4-3.694Z" fill="#f1c40f"/>
+    </clipPath>
+  </defs>
+  <g id="Crayon_icon" data-name="Crayon icon" transform="translate(-540.807 -915.268)">
+    <g id="Color_Fill_3-2" data-name="Color Fill 3">
+      <path id="Color_Fill_3-3" data-name="Color Fill 3" d="M540.807,1005.459l3.949,40.16,36.754-16.659S573.69,1002.505,540.807,1005.459Z" fill="#ffecba"/>
+      <g id="Clip" clip-path="url(#clip-path)">
+        <path id="Shape_25" data-name="Shape 25" d="M542.663,1034.244s5.785.646,13.135,7.583-9.542,7.193-9.542,7.193-8.727-3.884-8.827-4.712,2.091-9.955,2.091-9.955" fill="#393939"/>
+      </g>
+    </g>
+    <g id="Shape_19-2" data-name="Shape 19">
+      <path id="Shape_19-3" data-name="Shape 19" d="M617.659,918.42a23.5,23.5,0,0,1,8.6,32.1l-5.5,9.526a23.5,23.5,0,1,1-40.7-23.5l5.5-9.526A23.5,23.5,0,0,1,617.659,918.42Z" fill="#e88e8d"/>
+      <g id="Clip-2" data-name="Clip" clip-path="url(#clip-path-2)">
+        <path id="Shape_23" data-name="Shape 23" d="M618.592,917.8l20.784,12-13.5,23.383-20.785-12Z" fill="#d97475"/>
+      </g>
+    </g>
+    <g id="Shape_17_copy-2" data-name="Shape 17 copy">
+      <path id="Shape_17_copy-3" data-name="Shape 17 copy" d="M585.307,927.455a139.055,139.055,0,0,1,40.7,23.5l-12.5,21.651-40.7-23.5Z" fill="#daeaf2"/>
+      <g id="Clip-3" data-name="Clip" clip-path="url(#clip-path-3)">
+        <path id="Shape_24" data-name="Shape 24" d="M608.091,935.991l21.651,12.5-13,22.517-21.651-12.5Z" fill="#bedae8"/>
+      </g>
+    </g>
+    <g id="Shape_17-2" data-name="Shape 17">
+      <path id="Shape_17-3" data-name="Shape 17" d="M574.85,945.326a139.045,139.045,0,0,1,40.7,23.5L581.51,1028.96a30.047,30.047,0,0,0-8.526-7.232c-6.562-3.789-14.713.744-14.713.744s.094-9.184-7.065-13.317a29.643,29.643,0,0,0-10.4-3.694Z" fill="#f1c40f"/>
+      <g id="Clip-4" data-name="Clip" clip-path="url(#clip-path-4)">
+        <path id="Shape_18" data-name="Shape 18" d="M602.591,946.445l23.383,13.5-44,76.21-23.383-13.5Z" fill="#f39c12"/>
+      </g>
+    </g>
+  </g>
+</svg>
